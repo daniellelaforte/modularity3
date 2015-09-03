@@ -1,0 +1,191 @@
+/* ADD YOUR STYLES HERE */
+
+.label {
+	position: relative;
+	left: 15px;
+	
+}
+
+.input {
+	position: relative;
+	margin-left: 40px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	width: 250px;
+	height: 25px;
+}
+
+.dive {
+
+	padding: 10px;
+
+}
+
+
+.bug {
+	
+	margin-left: 50px;
+	
+}
+
+.bag {
+	margin-left: 27px;
+	position: relative;
+	
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	width: 250px;
+	height: 25px;
+}
+
+.hello {
+	text-align: right;
+}
+
+.stick {
+	width: 400px;
+}
+
+.input1 {
+	
+	position: relative;
+	margin-left: 20px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	width: 250px;
+	height: 25px;
+}
+
+.city {
+
+position: relative;
+	margin-left: 20px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	width: 150px;
+	height: 25px;
+
+}
+
+.state {
+
+position: relative;
+	margin-left: 10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	width: 40px;
+	height: 25px;
+
+}
+
+.hello {
+	padding: 10px;
+}
+
+.wonder {
+	margin-left: 150px;
+	margin-right: 10px;
+	
+
+}
+
+.button {
+
+	height: 40px;
+	width: 250px;
+	margin-left: 140px;
+	border-radius: 5px;
+	border-style: none;
+	border: 0;
+	font-family: arial;
+
+
+}
+
+.forbutton {
+	padding-top: 10px;
+}
+
+.checkbox {
+	padding-top: 10px;
+}
+
+.input2 {
+	
+	position: relative;
+	margin-left: 20px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	display: inline-block;
+	width: 250px;
+	height: 25px;
+	
+}
+
+.input3 {
+	box-shadow:       0px 0px 11px 5px rgba(173, 235, 164, 1);
+}
+.input4 {
+	box-shadow:       0px 0px 11px 5px rgba(224, 62, 80, 1);
+}
+
+.hello1 {
+	padding: 10px;
+
+}
+
+.hello2 {
+	padding: 10px;
+	margin-left: 38px;
+	
+}
+
+.container 
+	{ width: 100%; 
+		height: 60px; 
+		background: #D3D3D3; 
+		border-radius: 15px;
+		border: 1px solid #989898;}
+
+
+.oneofthree {
+	 float: left; display: block; background: #D3D3D3;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.twoofthree {
+	 float: left; display: block; background: rgb(200,200,200);
+	 background-color: white;
+	 border-radius: 5px;
+	 margin-top: 15px;
+	 height: 25px;
+	 width: 550px;
+	 border: 1px solid #989898;
+	 margin-left: 15px;
+}
+
+.threeofthree {
+	 float: right; display: block; background: rgb(200,200,200);
+	margin-right: 20px;
+	margin-top: 10px;
+	 padding: 5px;
+
+}
+
+.makebutton {
+	border: none;
+	background-color: salmon;
+	height: 30px;
+	width: 60px;
+	margin-top: 15px;
+	border-radius: 5px;
+	color: white;
+	font-size: 13px;
+
+}
